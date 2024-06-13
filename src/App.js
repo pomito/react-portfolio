@@ -14,6 +14,14 @@ function App() {
         >
           Link to my LinkedIn profile
         </a>
+        <a
+          className="App-link"
+          href="https://https://github.com/pomito"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Link to my GitHub profile
+        </a>
       </header>
     </div>
   );
