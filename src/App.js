@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://test.spomiklo.dev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          React App deployed with GitHub Actions
+          Redirect to test.spomiklo.dev
         </a>
       </header>
     </div>
