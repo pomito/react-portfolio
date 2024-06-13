@@ -5,6 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <a
+          className="App-link"
+          href="https://wordpress.spomiklo.dev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Checkout new WordPress page!
+        </a>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
