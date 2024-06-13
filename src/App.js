@@ -5,6 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <a
+          className="App-link"
+          href="https://www.react.spomiklo.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Back to react.spomiklo.dev
+        </a>
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
