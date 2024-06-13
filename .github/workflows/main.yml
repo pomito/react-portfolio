@@ -17,4 +17,4 @@ jobs:
         server: ftp.cluster023.hosting.ovh.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/spomikr/test/
+        server-dir: /home/spomikr/react/
