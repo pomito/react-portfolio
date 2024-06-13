@@ -24,7 +24,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://https://github.com/pomito"
+          href="https:///github.com/pomito"
           target="_blank"
           rel="noopener noreferrer"
         >
